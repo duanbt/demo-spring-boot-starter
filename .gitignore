@@ -1,0 +1,4 @@
+# Project exclude paths
+/demo-boot/demo-spring-boot-autoconfigure/target/
+/demo-boot/demo-spring-boot-sample/target/
+/demo-module/target/
